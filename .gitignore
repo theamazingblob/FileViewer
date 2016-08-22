@@ -1,0 +1,12 @@
+# IntelliJ IDEA Files
+*.iml
+*.ipr
+*.iws
+.idea/
+out
+test-output
+atlassian-ide-plugin.xml
+.gradletasknamecache
+
+# Maven Files
+target/
